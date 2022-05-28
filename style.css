@@ -95,3 +95,12 @@ body {
     bottom: 50px;
     opacity: 1;
 }
+
+@media (max-width: 620px) {
+    .logo {
+        padding: 0 15px;
+    }
+    .container-input {
+        padding: 0 15px;
+    }
+}
